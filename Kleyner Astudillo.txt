@@ -1,4 +1,3 @@
 {
-	"nombre":"Kleyner",
 	"apellido":"Astudillo"
 }
