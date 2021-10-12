@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_CLIENTEKC_314": {
+			"name": "ClienteKSAC"
+		}
 	},
 	"FRMLR": {
 		"CompositeForms": {
