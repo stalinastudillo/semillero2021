@@ -1,0 +1,32 @@
+{
+	"APP_CLIENTESFFF_876": {
+		"externalModules": {
+		},
+		"forms": {
+			"PREBA": [
+				{
+					"generated": 4,
+					"moduleId": "PREBA",
+					"name": "Clientes",
+					"subModuleId": "FRMLR",
+					"taskId": "T_PREBAYDWFOLGU_612",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "ClientesF",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_CLIENTESFFF_876",
+		"mainPortletTaskId": "T_PREBAYDWFOLGU_612",
+		"modules": [
+			"PREBA"
+		],
+		"name": "ClientesF"
+	}
+}

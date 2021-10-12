@@ -1,0 +1,28 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+	},
+	"Forms": {
+		"T_PREBAYDWFOLGU_612": {
+			"blis": [
+			],
+			"entities": {
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}
