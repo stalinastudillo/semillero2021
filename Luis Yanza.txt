@@ -1,4 +1,3 @@
 {
-	"nombre":"Luis",
-	"apellido":"Yanza"
+	"nombre":"Luis"
 }
