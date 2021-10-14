@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_CLIENTEKC_314": {
+			"name": "ClienteKSAC"
+		}
+	},
+	"FRMLR": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_PREBAYDWFOLGU_612": {
+				"name": "Clientes"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

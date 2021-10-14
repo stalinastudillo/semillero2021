@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "PREBA",
+	"modules": [
+		{
+			"moduleId": "PREBA",
+			"moduleName": "PRUEBA",
+			"subModules": [
+				{
+					"subModuleId": "FRMLR",
+					"subModuleName": "FORMULARIOS"
+				}
+			]
+		}
+	],
+	"projectName": "SemilleroPrueba",
+	"subModuleId": "FRMLR"
+}

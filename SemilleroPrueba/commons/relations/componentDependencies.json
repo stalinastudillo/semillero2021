@@ -1,0 +1,32 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CLIENTEKC_314": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_PREBAYDWFOLGU_612": {
+			"blis": [
+			],
+			"entities": {
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}
